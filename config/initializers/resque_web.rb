@@ -1,1 +1,1 @@
-Resque.redis = 'localhost:6379'
+Resque.redis = '192.168.33.10:6379'
